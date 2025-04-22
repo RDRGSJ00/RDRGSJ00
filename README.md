@@ -1,3 +1,5 @@
+![Background Image](./code.png)
+
 # Hi, I'm Shawn 👋
 
 🚀 Web Developer | 💻 Code Enthusiast | 🧠 Quick Learner
