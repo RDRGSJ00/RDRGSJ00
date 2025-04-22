@@ -1,4 +1,4 @@
-![Background Image](./code.png)
+![Background Image](./Code.png)
 
 # Hi, I'm Shawn 👋
 
