@@ -8,9 +8,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on: Blazor Server-side applications for a Health System
+- 🔭 I’m currently working on: Blazor Server-side applications  
 - 💬 Ask me about: Web dev, automation, project management, or Smartsheets
-- 🪓 Off the keyboard: Woodworking, 3D printing, or tacos
+- 🪓 Off the keyboard: Woodworking, 3D printing, and family time
 
 ---
 
@@ -33,4 +33,4 @@
 
 ---
 
-🤖 *Thanks for stopping by!*
+🤖 *See ya!*
