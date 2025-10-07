@@ -32,5 +32,3 @@
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Umbro.m.2002@Gmail.com)
 
 ---
-
-🤖 *See ya!*
